@@ -1,4 +1,5 @@
 # Deep Learning Projects
+*Created: 2022-06-09*
 
 A personal collection of **deep learning projects** I'm working on.
 
